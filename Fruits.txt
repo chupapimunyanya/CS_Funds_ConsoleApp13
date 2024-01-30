@@ -1,0 +1,6 @@
+Name: Apple, Color: Red
+Name: Banana, Color: Yellow
+Name: Clementine, Color: Yellow, Vitamin C: 6.6
+Name: Lemon, Color: Yellow, Vitamin C: 5.2
+Name: Orange, Color: Orange, Vitamin C: 7.5
+Name: Pomelo, Color: Yellow, Vitamin C: 3
